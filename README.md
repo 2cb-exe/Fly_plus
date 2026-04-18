@@ -11,4 +11,4 @@
 ### (Loader)
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/2cb-exe/Fly-/main/Fly%2B](https://raw.githubusercontent.com/2cb-exe/Fly-/main/Fly%2B)", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2cb-exe/Fly_plus/main/Fly%2B", true))()
